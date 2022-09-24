@@ -5,3 +5,5 @@ You'll mostly find repositories for games I'm currently working on, as I like to
 
 If you want to know more about me, you can visit my website here:
 [toastyman231.github.io](https://toastyman231.github.io)
+
+[![Toastyman231's GitHub stats](https://github-readme-stats.vercel.app/api?username=toastyman231&theme=onedark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
