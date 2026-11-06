@@ -9,8 +9,7 @@ If you want to know more about me, you can visit my website here:
 <details align="center">
   <summary>View my Stats!</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=toastyman231&theme=onedark&show_icons=true&hide_border=true"></img>
-    <img src="https://raw.githubusercontent.com/toastyman231/github-stats/generated/overview.svg#gh-dark-mode-only">
+    <img src="https://github-stats-extended.vercel.app/api?username=toastyman231&theme=onedark&show_icons=true&hide_border=true"></img>
     <img src="https://raw.githubusercontent.com/toastyman231/github-stats/generated/languages.svg#gh-dark-mode-only">
   </p>
 </details>  
